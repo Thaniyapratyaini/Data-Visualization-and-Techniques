@@ -1,0 +1,105 @@
+OrderID,OrderDate,CustomerName,Region,ProductCategory,Product,Quantity,UnitPrice,Discount,TotalSales
+1001,2025-06-23,Sara Ali,South,Electronics,Laptop,2,115.49,0.0,230.98
+1002,2025-05-10,Aisha Khan,West,Electronics,Headphones,1,51.38,0.05,48.81
+1004,2025-02-25,Arjun Nambiar,South,Stationery,Notebook,4,173.42,0.05,659.0
+1005,2025-03-09,Rohan Mehta,West,Electronics,Laptop,3,424.51,0.0,1273.53
+1006,2025-04-03,Rohan Mehta,West,Clothing,T-Shirt,5,150.12,0.0,750.6
+1007,2025-03-01,Divya Menon,North,Furniture,Office Chair,2,387.67,0.0,775.34
+1008,2025-02-23,Divya Menon,West,Clothing,Cap,3,85.51,0.1,230.88
+1009,2025-02-11,Divya Menon,North,Stationery,Notebook,2,269.4,0.05,511.86
+1010,2025-07-16,Arjun Nambiar,South,Clothing,Cap,5,113.71,0.1,511.7
+1011,2025-07-03,Neha Gupta,East,Furniture,Office Chair,3,37.76,0.0,113.28
+1012,2025-03-05,Divya Menon,West,Furniture,Cabinet,4,75.72,0.05,287.74
+1013,2025-05-11,Neha Gupta,North,Stationery,Sticky Notes,3,113.56,0.05,323.65
+1015,2025-01-03,Farhan Sheikh,North,Clothing,Socks,5,129.45,0.0,647.25
+1017,2025-05-10,Arjun Nambiar,South,Clothing,T-Shirt,3,486.08,0.05,1385.33
+1018,2025-01-01,Vikram Singh,South,Stationery,Pen Set,2,271.99,0.0,543.98
+1019,2025-03-03,Rohan Mehta,North,Stationery,Sticky Notes,3,439.97,0.1,1187.92
+1020,2025-07-16,Arjun Nambiar,North,Furniture,Office Chair,4,408.93,0.0,1635.72
+1021,2025-04-19,Priya Nair,North,Furniture,Cabinet,3,266.2,0.0,798.6
+1023,2025-05-31,Vikram Singh,North,Furniture,Desk,1,296.21,0.05,281.4
+1024,2025-03-26,Divya Menon,South,Electronics,Laptop,1,118.33,0.0,118.33
+1025,2025-05-28,Farhan Sheikh,South,Furniture,Bookshelf,2,271.92,0.0,543.84
+1026,2025-04-01,Karan Shah,West,Furniture,Cabinet,1,52.98,0.15,45.03
+1028,2025-04-19,Karan Shah,South,Stationery,Notebook,2,270.46,0.05,513.87
+1029,2025-01-26,Rohan Mehta,South,Stationery,Sticky Notes,4,404.97,0.0,1619.88
+1030,2025-04-13,Priya Nair,South,Electronics,Laptop,4,245.39,0.05,932.48
+1031,2025-03-15,Neha Gupta,North,Furniture,Cabinet,3,463.63,0.15,1182.26
+1032,2025-07-08,Sara Ali,South,Clothing,Jacket,2,484.51,0.0,969.02
+1033,2025-02-10,Aisha Khan,North,Electronics,Keyboard,5,241.01,0.0,1205.05
+1034,2025-04-14,Imran Qureshi,North,Electronics,Mouse,1,339.23,0.05,322.27
+1035,2025-05-14,Rohan Mehta,North,Furniture,Office Chair,4,330.4,0.0,1321.6
+1036,2025-02-03,Arjun Nambiar,South,Stationery,Pen Set,3,123.15,0.15,314.03
+1037,2025-05-25,Unknown Customer,East,Stationery,Sticky Notes,1,9.61,0.0,9.61
+1038,2025-01-18,Anjali Rao,South,Electronics,Headphones,3,70.57,0.1,190.54
+1039,2025-07-26,Farhan Sheikh,South,Stationery,Stapler,5,353.25,0.0,1766.25
+1040,2025-03-09,Divya Menon,East,Electronics,Headphones,1,469.77,0.05,446.28
+1041,2025-02-22,Sara Ali,South,Electronics,Headphones,3,304.39,0.1,821.85
+1042,2025-01-12,Aisha Khan,East,Stationery,Sticky Notes,1,318.97,0.1,287.07
+1043,2025-06-30,Sara Ali,South,Stationery,Pen Set,2,371.91,0.0,743.82
+1044,2025-05-30,Arjun Nambiar,North,Electronics,Laptop,2,275.07,0.1,495.13
+1045,2025-04-02,Aisha Khan,South,Furniture,Cabinet,3,185.5,0.0,556.5
+1046,2025-06-08,Unknown Customer,East,Furniture,Office Chair,5,442.65,0.15,1881.26
+1047,2025-02-15,Unknown Customer,South,Furniture,Desk,2,441.3,0.0,882.6
+1048,2025-04-08,Arjun Nambiar,South,Stationery,Sticky Notes,2,137.07,0.0,274.14
+1049,2025-02-27,Farhan Sheikh,South,Clothing,Jacket,3,156.07,0.05,444.8
+1050,2025-03-31,Sara Ali,East,Furniture,Cabinet,1,483.61,0.1,435.25
+1051,2025-01-10,Rohan Mehta,North,Clothing,Cap,3,93.39,0.1,252.15
+1052,2025-01-30,Unknown Customer,South,Clothing,Cap,3,221.01,0.0,663.03
+1053,2025-06-25,Arjun Nambiar,North,Furniture,Bookshelf,4,5.84,0.0,23.36
+1056,2025-06-07,Divya Menon,West,Furniture,Desk,4,340.27,0.05,1293.03
+1057,2025-07-21,Aisha Khan,North,Stationery,Sticky Notes,3,147.02,0.15,374.9
+1060,2025-06-06,Priya Nair,South,Stationery,Pen Set,1,27.88,0.15,23.7
+1061,2025-05-07,Imran Qureshi,South,Clothing,Socks,2,360.58,0.15,612.99
+1062,2025-07-19,Arjun Nambiar,South,Furniture,Desk,1,446.87,0.0,446.87
+1063,2025-02-01,Anjali Rao,South,Furniture,Desk,4,29.86,0.05,113.47
+1064,2025-06-06,Anjali Rao,South,Furniture,Cabinet,5,299.75,0.15,1273.94
+1065,2025-06-13,Arjun Nambiar,South,Clothing,Socks,4,227.78,0.05,865.56
+1066,2025-03-11,Farhan Sheikh,East,Clothing,Jacket,1,358.2,0.05,340.29
+1067,2025-06-30,Priya Nair,South,Stationery,Notebook,2,194.6,0.05,369.74
+1068,2025-02-22,Vikram Singh,West,Electronics,Monitor,5,235.63,0.0,1178.15
+1069,2025-03-18,Neha Gupta,North,Clothing,T-Shirt,4,7.92,0.1,28.51
+1070,2025-04-10,Karan Shah,West,Clothing,Jacket,3,220.74,0.0,662.22
+1071,2025-06-01,Priya Nair,West,Clothing,Jacket,5,269.39,0.15,1144.91
+1072,2025-01-13,Neha Gupta,South,Electronics,Laptop,2,434.09,0.05,824.77
+1073,2025-03-13,Farhan Sheikh,South,Clothing,Cap,3,172.06,0.15,438.75
+1075,2025-02-09,Karan Shah,North,Electronics,Laptop,2,420.42,0.0,840.84
+1076,2025-06-29,Rohan Mehta,South,Furniture,Cabinet,5,474.14,0.15,2015.09
+1078,2025-01-20,Divya Menon,North,Electronics,Keyboard,4,201.34,0.05,765.09
+1079,2025-07-26,Unknown Customer,South,Furniture,Office Chair,3,425.9,0.0,1277.7
+1081,2025-07-01,Rohan Mehta,West,Electronics,Monitor,4,480.59,0.15,1634.01
+1083,2025-01-23,Imran Qureshi,South,Clothing,Socks,3,164.54,0.05,468.94
+1084,2025-01-08,Imran Qureshi,West,Clothing,Jacket,5,335.75,0.1,1510.88
+1085,2025-03-13,Karan Shah,West,Stationery,Pen Set,3,399.93,0.1,1079.81
+1086,2025-05-06,Karan Shah,North,Stationery,Notebook,1,124.47,0.15,105.8
+1087,2025-01-24,Arjun Nambiar,South,Furniture,Cabinet,4,226.85,0.0,907.4
+1088,2025-05-02,Karan Shah,South,Furniture,Cabinet,3,333.66,0.1,900.88
+1089,2025-03-11,Anjali Rao,South,Stationery,Sticky Notes,3,179.15,0.15,456.83
+1090,2025-07-15,Arjun Nambiar,North,Stationery,Pen Set,2,161.2,0.0,322.4
+1091,2025-07-14,Arjun Nambiar,South,Furniture,Desk,4,141.87,0.0,567.48
+1092,2025-01-04,Sara Ali,South,Stationery,Notebook,2,183.64,0.1,330.55
+1093,2025-06-13,Aisha Khan,North,Furniture,Bookshelf,5,149.61,0.05,710.65
+1094,2025-02-17,Sara Ali,North,Electronics,Laptop,4,241.96,0.1,871.06
+1095,2025-06-11,Rohan Mehta,North,Stationery,Sticky Notes,4,248.41,0.0,993.64
+1096,2025-03-05,Unknown Customer,South,Electronics,Mouse,5,474.82,0.0,2374.1
+1097,2025-05-31,Neha Gupta,North,Clothing,Jacket,4,454.71,0.1,1636.96
+1098,2025-06-10,Arjun Nambiar,North,Stationery,Notebook,1,474.06,0.05,450.36
+1099,2025-01-01,Karan Shah,South,Stationery,Notebook,2,278.24,0.05,528.66
+1100,2025-06-29,Aisha Khan,East,Clothing,Socks,2,147.61,0.1,265.7
+1102,2025-06-02,Priya Nair,East,Furniture,Desk,1,34.52,0.1,31.07
+1104,2025-06-04,Imran Qureshi,North,Clothing,Socks,1,445.26,0.1,400.73
+1105,2025-07-15,Divya Menon,South,Electronics,Laptop,5,295.63,0.0,1478.15
+1106,2025-02-16,Farhan Sheikh,South,Stationery,Notebook,5,327.5,0.1,1473.75
+1107,2025-06-21,Farhan Sheikh,North,Clothing,Socks,3,207.13,0.1,559.25
+1108,2025-07-28,Arjun Nambiar,West,Furniture,Bookshelf,4,147.67,0.15,502.08
+1109,2025-05-12,Vikram Singh,North,Electronics,Monitor,3,165.02,0.15,420.8
+1110,2025-06-10,Karan Shah,North,Clothing,Socks,5,184.08,0.15,782.34
+1111,2025-06-28,Anjali Rao,East,Electronics,Mouse,2,464.2,0.15,789.14
+1112,2025-05-22,Imran Qureshi,South,Electronics,Laptop,2,356.34,0.1,641.41
+1113,2025-05-08,Rohan Mehta,South,Clothing,T-Shirt,4,473.8,0.05,1800.44
+1114,2025-02-07,Farhan Sheikh,West,Stationery,Stapler,4,125.65,0.0,502.6
+1115,2025-03-10,Sara Ali,North,Furniture,Desk,4,173.24,0.0,692.96
+1117,2025-02-18,Anjali Rao,East,Clothing,Cap,5,191.72,0.1,862.74
+1118,2025-06-30,Unknown Customer,South,Furniture,Cabinet,4,26.61,0.15,90.47
+1119,2025-03-26,Aisha Khan,West,Clothing,Jacket,2,253.63,0.0,507.26
+1120,2025-06-17,Farhan Sheikh,North,Clothing,T-Shirt,1,362.61,0.15,308.22
