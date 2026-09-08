@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workbook original-version="18.1" source-build="2026.1.0" source-platform="win" version="18.1" xml:base="https://tableau.com">
+  <datasources>
+    <datasource caption="Tourism_Data_Clean" inline="true" name="federated.1" version="18.1">
+      <connection access_mode="readonly" authentication="auth-none" author-locale="en_US" class="textscan" directory="/mnt/data/tourism_miniproject" filename="Tourism_Data_Clean.csv" password="" schema="" sslmode="" update-time="09/08/2026 22:00:00">
+        <relation name="Tourism_Data_Clean.csv" table="Tourism_Data_Clean.csv" type="table"/>
+      </connection>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name="Revenue by Destination">
+      <repository-location derived-from="Tourism_Data_Clean" id="Revenue by Destination"/>
+      <table>
+        <view>
+          <datasources><datasource caption="Tourism_Data_Clean"/></datasources>
+          <datasource-dependencies datasource="federated.1">
+            <column datatype="string" name="[destination]" role="dimension" type="nominal"/>
+            <column datatype="real" name="[amount]" role="measure" type="quantitative"/>
+          </datasource-dependencies>
+        </view>
+      </table>
+    </worksheet>
+    <worksheet name="Bookings by Traveler Type"/>
+    <worksheet name="Bookings by Transport Mode"/>
+    <worksheet name="Monthly Tourism Revenue Trend"/>
+    <worksheet name="Booking Status Analysis"/>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder="true" name="Tourism Analytics Dashboard">
+      <layout-options>
+        <title>
+          <formatted-text><run fontcolor="#000000" fontsize="18">Tourism Analytics Dashboard</run></formatted-text>
+        </title>
+      </layout-options>
+    </dashboard>
+  </dashboards>
+</workbook>

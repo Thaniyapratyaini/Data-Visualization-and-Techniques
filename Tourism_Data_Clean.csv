@@ -1,0 +1,501 @@
+booking_id,travel_date,customer_id,destination,traveler_type,trip_type,accommodation_type,transport_mode,stay_days,amount,rating,booking_status
+100000,2024-03-06,5000,Rajasthan,Group,Adventure,Hotel,Car,8,67173.12,4.1,Completed
+100001,2025-09-05,5001,Kerala,Group,Adventure,Homestay,Train,6,50767.95,3.6,Completed
+100002,2025-09-19,5002,Tamil Nadu,Family,Leisure,Hostel,Car,9,47483.45,4.4,Completed
+100003,2024-12-29,5003,Goa,Family,Cultural,Hostel,Flight,2,21286.79,4.7,Completed
+100004,2024-12-04,5004,Rajasthan,Solo,Adventure,Hotel,Car,3,10059.0,3.7,Completed
+100005,2024-11-14,5005,Rajasthan,Couple,Adventure,Hotel,Flight,9,71966.2,4.4,Completed
+100006,2024-12-10,5006,Himachal Pradesh,Couple,Adventure,Hotel,Flight,8,61462.39,3.2,Completed
+100007,2024-02-27,5007,Tamil Nadu,Family,Adventure,Hotel,Flight,8,59865.99,4.0,Completed
+100008,2025-12-26,5008,Kerala,Solo,Leisure,Hotel,Bus,9,29885.57,4.4,Completed
+100009,2024-10-26,5009,Himachal Pradesh,Solo,Leisure,Hotel,Bus,5,12217.99,4.1,Completed
+100010,2025-11-16,5010,Himachal Pradesh,Couple,Leisure,Hotel,Bus,3,10515.54,3.4,Completed
+100011,2024-09-04,5011,Karnataka,Family,Leisure,Hostel,Bus,10,45498.15,4.0,Completed
+100012,2024-02-27,5012,Karnataka,Couple,Leisure,Hotel,Train,2,9686.11,4.1,Completed
+100013,2024-12-26,5013,Rajasthan,Family,Adventure,Resort,Flight,8,67056.43,4.8,Completed
+100014,2024-05-17,5014,Goa,Solo,Adventure,Hotel,Car,4,14986.39,4.4,Completed
+100015,2024-08-03,5015,Karnataka,Couple,Cultural,Hotel,Train,2,9899.29,3.6,Completed
+100016,2025-01-31,5016,Kerala,Couple,Adventure,Hotel,Flight,6,58529.75,4.0,Cancelled
+100017,2024-08-08,5017,Goa,Family,Leisure,Resort,Bus,6,29349.57,3.8,Completed
+100018,2025-12-13,5018,Goa,Family,Leisure,Homestay,Car,4,34634.94,4.3,Completed
+100019,2025-03-30,5019,Kerala,Group,Leisure,Hotel,Train,6,55819.28,5.0,Pending
+100020,2025-09-10,5020,Karnataka,Couple,Leisure,Homestay,Bus,10,30741.9,4.9,Completed
+100021,2024-10-04,5021,Karnataka,Solo,Leisure,Homestay,Flight,4,18994.93,3.5,Completed
+100022,2024-07-24,5022,Himachal Pradesh,Group,Adventure,Hotel,Flight,4,40812.4,4.5,Completed
+100023,2025-12-09,5023,Rajasthan,Family,Adventure,Hotel,Car,3,22174.45,4.1,Completed
+100024,2024-11-13,5024,Karnataka,Couple,Leisure,Resort,Bus,3,9827.31,3.7,Pending
+100025,2024-12-30,5025,Tamil Nadu,Family,Leisure,Hotel,Train,2,10864.26,3.6,Pending
+100026,2025-06-23,5026,Rajasthan,Family,Leisure,Hotel,Car,9,57094.26,4.0,Cancelled
+100027,2025-07-13,5027,Karnataka,Family,Leisure,Hotel,Train,7,44881.74,3.3,Completed
+100028,2025-01-23,5028,Kerala,Family,Cultural,Hotel,Flight,4,41148.48,5.0,Completed
+100029,2024-08-20,5029,Goa,Group,Leisure,Hotel,Flight,4,41253.54,4.0,Completed
+100030,2024-05-22,5030,Goa,Family,Adventure,Hotel,Flight,3,35849.8,3.7,Completed
+100031,2025-01-27,5031,Goa,Solo,Leisure,Resort,Train,2,6869.28,4.2,Completed
+100032,2025-10-15,5032,Himachal Pradesh,Solo,Business,Hotel,Car,2,8556.16,3.8,Pending
+100033,2025-02-27,5033,Tamil Nadu,Family,Leisure,Resort,Train,9,46989.67,4.0,Cancelled
+100034,2025-05-16,5034,Kerala,Solo,Adventure,Hotel,Flight,7,39837.79,3.9,Completed
+100035,2024-11-13,5035,Himachal Pradesh,Couple,Business,Hostel,Train,5,25265.76,5.0,Completed
+100036,2024-12-23,5036,Himachal Pradesh,Couple,Adventure,Hotel,Bus,7,29636.3,4.0,Completed
+100037,2025-11-27,5037,Goa,Family,Leisure,Hostel,Flight,7,81977.59,4.9,Pending
+100038,2024-11-21,5038,Himachal Pradesh,Group,Leisure,Resort,Flight,9,93050.22,4.7,Completed
+100039,2024-01-06,5039,Rajasthan,Couple,Cultural,Homestay,Train,7,37551.58,4.4,Completed
+100040,2025-07-28,5040,Goa,Family,Leisure,Homestay,Bus,3,18619.69,4.2,Completed
+100041,2025-04-08,5041,Kerala,Couple,Leisure,Hotel,Car,4,23883.65,4.9,Completed
+100042,2024-05-08,5042,Karnataka,Family,Adventure,Hotel,Car,6,43274.19,4.4,Completed
+100043,2024-07-17,5043,Tamil Nadu,Solo,Adventure,Resort,Flight,9,41648.09,3.4,Completed
+100044,2025-12-08,5044,Rajasthan,Couple,Business,Homestay,Flight,6,49200.35,3.8,Pending
+100045,2025-07-22,5045,Goa,Group,Adventure,Resort,Flight,9,93075.76,3.7,Cancelled
+100046,2024-11-27,5046,Himachal Pradesh,Solo,Business,Resort,Flight,3,13683.51,3.0,Completed
+100047,2025-12-17,5047,Kerala,Group,Leisure,Homestay,Car,9,87316.09,4.8,Completed
+100048,2024-11-22,5048,Kerala,Solo,Adventure,Homestay,Bus,2,5486.97,3.3,Cancelled
+100049,2024-02-08,5049,Kerala,Family,Business,Resort,Flight,3,29785.97,4.0,Completed
+100050,2024-12-01,5050,Goa,Solo,Leisure,Hostel,Train,8,29728.75,4.3,Cancelled
+100051,2024-11-22,5051,Karnataka,Couple,Adventure,Resort,Bus,3,9392.58,4.0,Pending
+100052,2025-05-20,5052,Rajasthan,Solo,Leisure,Hotel,Flight,5,25865.99,4.1,Completed
+100053,2025-12-11,5053,Rajasthan,Solo,Adventure,Hotel,Flight,5,24838.24,4.7,Completed
+100054,2024-03-10,5054,Tamil Nadu,Family,Adventure,Resort,Flight,7,58132.62,3.5,Cancelled
+100055,2025-01-22,5055,Kerala,Couple,Cultural,Homestay,Car,7,43575.95,3.7,Completed
+100056,2024-06-28,5056,Himachal Pradesh,Couple,Leisure,Hotel,Car,4,20552.04,4.3,Completed
+100057,2024-12-22,5057,Kerala,Family,Leisure,Homestay,Car,3,21956.3,3.7,Completed
+100058,2025-05-03,5058,Kerala,Group,Business,Homestay,Flight,3,41096.71,3.9,Completed
+100059,2025-11-07,5059,Goa,Solo,Adventure,Hotel,Flight,7,44418.4,3.6,Cancelled
+100060,2024-05-26,5060,Karnataka,Solo,Leisure,Hotel,Flight,9,40676.77,5.0,Completed
+100061,2025-11-02,5061,Goa,Group,Leisure,Hotel,Flight,3,37067.49,2.8,Completed
+100062,2024-01-11,5062,Kerala,Group,Adventure,Resort,Bus,2,11554.2,3.5,Completed
+100063,2025-06-27,5063,Kerala,Group,Adventure,Homestay,Car,6,61695.85,3.7,Completed
+100064,2024-03-28,5064,Kerala,Couple,Adventure,Hotel,Train,9,52612.01,3.7,Pending
+100065,2024-01-07,5065,Goa,Solo,Business,Hotel,Flight,5,23578.09,4.2,Completed
+100066,2024-05-04,5066,Tamil Nadu,Group,Adventure,Hotel,Bus,8,40396.52,3.5,Pending
+100067,2025-03-31,5067,Karnataka,Solo,Cultural,Hotel,Train,9,30548.79,3.4,Completed
+100068,2024-04-22,5068,Himachal Pradesh,Family,Leisure,Hotel,Flight,4,40793.55,4.5,Completed
+100069,2025-09-20,5069,Karnataka,Couple,Cultural,Hotel,Train,6,29594.53,4.5,Cancelled
+100070,2024-06-23,5070,Kerala,Solo,Leisure,Resort,Bus,2,6790.98,3.4,Completed
+100071,2024-10-14,5071,Goa,Solo,Adventure,Homestay,Flight,9,52450.25,4.4,Completed
+100072,2025-07-09,5072,Karnataka,Family,Leisure,Homestay,Flight,5,42056.69,3.0,Cancelled
+100073,2024-11-24,5073,Kerala,Group,Leisure,Hotel,Flight,5,70469.28,5.0,Completed
+100074,2025-04-11,5074,Rajasthan,Solo,Adventure,Hostel,Bus,4,10002.26,3.9,Completed
+100075,2024-06-09,5075,Goa,Couple,Leisure,Hotel,Flight,6,50795.68,4.8,Completed
+100076,2024-11-24,5076,Karnataka,Family,Adventure,Hotel,Car,5,30098.23,4.4,Completed
+100077,2024-08-11,5077,Himachal Pradesh,Family,Adventure,Hotel,Flight,6,55035.3,5.0,Completed
+100078,2024-02-14,5078,Himachal Pradesh,Family,Leisure,Hotel,Car,7,55616.98,3.8,Completed
+100079,2024-07-14,5079,Goa,Family,Leisure,Resort,Car,9,67227.43,4.6,Completed
+100080,2025-11-16,5080,Goa,Solo,Leisure,Hotel,Train,10,33692.62,4.0,Completed
+100081,2025-09-14,5081,Rajasthan,Solo,Adventure,Hotel,Flight,3,14643.76,4.1,Completed
+100082,2024-07-30,5082,Karnataka,Solo,Adventure,Resort,Flight,3,14998.2,3.5,Completed
+100083,2025-01-22,5083,Kerala,Solo,Adventure,Resort,Flight,4,26776.97,3.5,Completed
+100084,2024-12-27,5084,Himachal Pradesh,Solo,Leisure,Hotel,Car,6,20341.78,4.5,Completed
+100085,2024-04-22,5085,Tamil Nadu,Solo,Adventure,Resort,Car,2,6618.37,5.0,Completed
+100086,2024-11-30,5086,Himachal Pradesh,Group,Leisure,Hostel,Train,3,25427.77,4.7,Completed
+100087,2025-06-20,5087,Kerala,Family,Adventure,Hotel,Train,9,58367.13,4.3,Completed
+100088,2025-06-21,5088,Goa,Solo,Cultural,Homestay,Bus,5,15950.84,4.8,Completed
+100089,2024-06-21,5089,Goa,Family,Leisure,Resort,Car,3,19552.4,5.0,Completed
+100090,2025-02-26,5090,Goa,Group,Cultural,Resort,Bus,7,37644.66,3.4,Completed
+100091,2024-04-06,5091,Tamil Nadu,Group,Leisure,Resort,Flight,4,33991.55,3.6,Cancelled
+100092,2024-05-15,5092,Rajasthan,Family,Cultural,Resort,Bus,6,29367.13,4.2,Pending
+100093,2025-11-20,5093,Himachal Pradesh,Couple,Leisure,Hotel,Car,2,11602.52,4.3,Completed
+100094,2024-09-19,5094,Goa,Solo,Cultural,Hostel,Flight,10,59211.13,4.1,Completed
+100095,2025-04-17,5095,Rajasthan,Family,Cultural,Homestay,Train,5,35149.37,3.7,Completed
+100096,2025-09-21,5096,Goa,Solo,Cultural,Hotel,Car,9,37668.35,4.0,Completed
+100097,2025-04-04,5097,Kerala,Family,Adventure,Hotel,Bus,5,29411.67,4.6,Pending
+100098,2024-09-04,5098,Rajasthan,Solo,Leisure,Resort,Flight,5,23106.98,3.3,Pending
+100099,2024-12-11,5099,Karnataka,Couple,Leisure,Hotel,Train,8,32474.12,4.3,Completed
+100100,2024-01-07,5100,Karnataka,Family,Adventure,Hotel,Flight,6,57974.08,4.1,Completed
+100101,2025-07-18,5101,Karnataka,Group,Business,Hotel,Flight,10,101955.2,2.7,Completed
+100102,2025-08-19,5102,Tamil Nadu,Couple,Leisure,Hotel,Flight,9,57209.97,3.6,Cancelled
+100103,2025-06-24,5103,Kerala,Couple,Cultural,Homestay,Flight,4,30906.11,4.0,Pending
+100104,2025-06-15,5104,Kerala,Group,Leisure,Hotel,Train,2,17700.17,4.7,Completed
+100105,2025-02-23,5105,Kerala,Couple,Leisure,Hotel,Flight,9,87602.25,3.8,Pending
+100106,2024-08-28,5106,Rajasthan,Couple,Adventure,Hotel,Flight,6,50168.44,4.7,Completed
+100107,2025-09-01,5107,Goa,Family,Leisure,Hotel,Flight,10,120847.73,4.6,Completed
+100108,2025-10-31,5108,Rajasthan,Couple,Adventure,Hotel,Car,7,39226.12,3.2,Cancelled
+100109,2025-09-05,5109,Karnataka,Couple,Leisure,Hotel,Bus,3,11290.14,4.3,Completed
+100110,2025-08-27,5110,Karnataka,Couple,Adventure,Hotel,Car,3,12540.69,4.6,Completed
+100111,2025-08-06,5111,Goa,Family,Leisure,Hostel,Flight,3,31848.43,3.9,Completed
+100112,2025-04-26,5112,Rajasthan,Group,Leisure,Hotel,Bus,7,33938.21,3.3,Cancelled
+100113,2024-07-30,5113,Himachal Pradesh,Group,Adventure,Resort,Flight,10,110100.6,4.8,Pending
+100114,2024-10-15,5114,Tamil Nadu,Family,Adventure,Hostel,Train,5,25151.51,3.9,Completed
+100115,2024-12-05,5115,Goa,Solo,Adventure,Resort,Bus,5,13536.93,4.9,Completed
+100116,2024-04-28,5116,Karnataka,Solo,Adventure,Hotel,Flight,9,38806.0,4.3,Completed
+100117,2025-10-30,5117,Kerala,Couple,Cultural,Hostel,Bus,10,46693.96,4.7,Completed
+100118,2025-06-08,5118,Rajasthan,Family,Leisure,Hotel,Car,10,67810.12,4.5,Completed
+100119,2025-09-11,5119,Kerala,Couple,Adventure,Resort,Flight,9,88183.3,4.4,Completed
+100120,2024-08-19,5120,Karnataka,Family,Cultural,Homestay,Train,9,47924.48,4.2,Completed
+100121,2025-04-08,5121,Kerala,Family,Leisure,Hotel,Car,4,29413.12,4.1,Cancelled
+100122,2024-01-29,5122,Himachal Pradesh,Group,Leisure,Homestay,Flight,5,65928.58,3.6,Completed
+100123,2025-11-22,5123,Rajasthan,Family,Business,Hostel,Flight,3,31698.48,4.1,Completed
+100124,2024-12-14,5124,Tamil Nadu,Solo,Cultural,Hotel,Train,9,24485.63,4.5,Completed
+100125,2025-08-05,5125,Karnataka,Group,Adventure,Hotel,Bus,7,34283.75,4.7,Pending
+100126,2024-05-09,5126,Goa,Family,Leisure,Homestay,Car,5,37162.12,4.6,Cancelled
+100127,2024-06-20,5127,Himachal Pradesh,Couple,Cultural,Hotel,Car,8,39426.54,4.3,Completed
+100128,2024-07-24,5128,Goa,Solo,Leisure,Homestay,Flight,2,12139.82,4.0,Completed
+100129,2024-01-20,5129,Karnataka,Group,Adventure,Homestay,Flight,3,32256.69,4.1,Completed
+100130,2024-08-27,5130,Rajasthan,Family,Adventure,Hotel,Flight,8,83613.87,4.5,Completed
+100131,2025-07-09,5131,Goa,Solo,Cultural,Hotel,Car,2,8215.77,4.5,Completed
+100132,2025-11-01,5132,Karnataka,Group,Cultural,Hotel,Flight,5,47006.04,3.3,Completed
+100133,2024-01-05,5133,Tamil Nadu,Group,Cultural,Hotel,Flight,7,63965.93,4.0,Completed
+100134,2024-07-29,5134,Himachal Pradesh,Group,Adventure,Hotel,Flight,5,54162.77,4.6,Completed
+100135,2025-04-12,5135,Goa,Solo,Leisure,Homestay,Bus,8,25523.03,4.9,Completed
+100136,2025-08-29,5136,Karnataka,Solo,Leisure,Resort,Flight,6,25294.39,3.5,Completed
+100137,2024-10-30,5137,Rajasthan,Solo,Leisure,Homestay,Flight,3,13015.62,5.0,Completed
+100138,2024-09-07,5138,Tamil Nadu,Solo,Cultural,Hostel,Flight,4,14917.86,2.9,Completed
+100139,2024-10-24,5139,Karnataka,Family,Cultural,Resort,Car,3,18493.01,4.5,Completed
+100140,2024-12-08,5140,Tamil Nadu,Group,Leisure,Hostel,Train,10,67562.91,4.1,Completed
+100141,2025-08-11,5141,Tamil Nadu,Solo,Leisure,Hotel,Flight,5,21644.93,5.0,Cancelled
+100142,2025-05-02,5142,Rajasthan,Family,Business,Hostel,Train,5,30889.59,4.9,Completed
+100143,2024-10-07,5143,Tamil Nadu,Family,Leisure,Hotel,Train,6,28506.26,4.6,Completed
+100144,2025-12-08,5144,Kerala,Family,Cultural,Hotel,Car,5,42030.7,4.4,Pending
+100145,2025-12-26,5145,Karnataka,Couple,Business,Resort,Flight,2,14296.58,4.3,Completed
+100146,2024-03-01,5146,Himachal Pradesh,Group,Adventure,Hotel,Flight,2,21774.99,4.1,Cancelled
+100147,2025-12-23,5147,Tamil Nadu,Couple,Leisure,Homestay,Train,5,22792.5,3.2,Completed
+100148,2025-08-01,5148,Goa,Family,Cultural,Hotel,Flight,9,96144.61,4.0,Cancelled
+100149,2025-04-11,5149,Tamil Nadu,Couple,Leisure,Hotel,Flight,10,68281.53,4.3,Cancelled
+100150,2025-05-31,5150,Karnataka,Solo,Adventure,Hotel,Bus,4,10000.75,4.1,Completed
+100151,2025-07-31,5151,Goa,Couple,Adventure,Hotel,Flight,7,54299.07,3.5,Completed
+100152,2025-01-09,5152,Rajasthan,Group,Business,Hotel,Bus,10,58504.8,3.7,Cancelled
+100153,2024-04-07,5153,Goa,Couple,Business,Hostel,Flight,5,38267.79,4.0,Completed
+100154,2024-10-11,5154,Karnataka,Group,Leisure,Hotel,Car,2,14394.14,3.8,Completed
+100155,2025-09-28,5155,Rajasthan,Couple,Leisure,Hostel,Flight,7,48229.52,3.5,Completed
+100156,2024-05-26,5156,Karnataka,Family,Cultural,Hostel,Car,2,11283.06,4.3,Pending
+100157,2024-08-07,5157,Tamil Nadu,Group,Business,Homestay,Train,6,34308.85,3.1,Completed
+100158,2024-05-22,5158,Goa,Solo,Cultural,Hotel,Car,5,16896.95,4.4,Completed
+100159,2025-09-20,5159,Karnataka,Solo,Adventure,Hostel,Car,3,8489.54,4.0,Completed
+100160,2025-11-12,5160,Goa,Family,Business,Resort,Bus,2,12087.86,5.0,Completed
+100161,2025-04-21,5161,Karnataka,Couple,Leisure,Hotel,Train,9,37937.53,4.0,Pending
+100162,2024-03-31,5162,Goa,Couple,Adventure,Resort,Train,6,33597.02,4.5,Completed
+100163,2025-06-06,5163,Goa,Solo,Adventure,Resort,Train,10,40999.47,3.4,Completed
+100164,2025-01-09,5164,Rajasthan,Solo,Adventure,Hotel,Bus,6,17743.03,4.9,Completed
+100165,2024-12-27,5165,Rajasthan,Solo,Cultural,Resort,Bus,10,26909.29,5.0,Completed
+100166,2025-07-17,5166,Kerala,Family,Adventure,Hostel,Train,7,56841.78,4.1,Completed
+100167,2024-02-03,5167,Rajasthan,Solo,Cultural,Hotel,Flight,8,43023.1,4.0,Completed
+100168,2025-06-19,5168,Goa,Group,Leisure,Hotel,Flight,4,53706.67,4.3,Completed
+100169,2024-05-03,5169,Goa,Couple,Adventure,Hotel,Flight,8,57820.7,3.8,Completed
+100170,2025-08-29,5170,Goa,Couple,Cultural,Homestay,Car,8,50642.92,3.8,Completed
+100171,2024-09-05,5171,Goa,Couple,Leisure,Hotel,Bus,5,19568.67,4.1,Completed
+100172,2024-01-11,5172,Kerala,Couple,Leisure,Homestay,Car,5,32264.7,3.0,Completed
+100173,2025-03-31,5173,Tamil Nadu,Group,Business,Homestay,Train,10,50600.71,2.9,Completed
+100174,2024-12-08,5174,Rajasthan,Family,Adventure,Homestay,Flight,6,63436.62,3.2,Completed
+100175,2025-07-17,5175,Karnataka,Group,Leisure,Hotel,Flight,10,113574.38,3.1,Completed
+100176,2025-12-28,5176,Kerala,Solo,Leisure,Hotel,Car,7,32404.71,3.8,Completed
+100177,2025-05-05,5177,Goa,Group,Leisure,Hostel,Flight,3,39539.13,3.6,Completed
+100178,2025-12-03,5178,Karnataka,Couple,Leisure,Hotel,Flight,4,29337.17,4.1,Completed
+100179,2025-06-23,5179,Kerala,Solo,Adventure,Hostel,Flight,9,53661.53,4.4,Completed
+100180,2025-07-15,5000,Rajasthan,Family,Leisure,Hotel,Flight,2,19316.98,3.3,Completed
+100181,2025-01-19,5001,Himachal Pradesh,Group,Leisure,Hotel,Car,7,60908.46,4.1,Completed
+100182,2025-12-09,5002,Rajasthan,Solo,Leisure,Hotel,Flight,2,11237.4,3.9,Cancelled
+100183,2025-04-10,5003,Kerala,Couple,Leisure,Hostel,Train,4,24840.03,4.3,Completed
+100184,2024-07-06,5004,Goa,Family,Cultural,Hotel,Car,2,16839.42,5.0,Cancelled
+100185,2025-01-17,5005,Karnataka,Couple,Adventure,Homestay,Flight,2,15346.69,3.1,Cancelled
+100186,2025-12-13,5006,Karnataka,Couple,Cultural,Homestay,Bus,5,15493.68,3.3,Completed
+100187,2024-08-13,5007,Rajasthan,Family,Leisure,Homestay,Car,6,44318.34,3.9,Completed
+100188,2024-07-03,5008,Goa,Family,Business,Homestay,Car,6,43707.93,4.0,Pending
+100189,2025-04-26,5009,Karnataka,Solo,Leisure,Homestay,Flight,6,26694.57,3.2,Cancelled
+100190,2024-12-16,5010,Kerala,Family,Leisure,Resort,Bus,9,45833.14,3.3,Cancelled
+100191,2025-11-01,5011,Tamil Nadu,Couple,Leisure,Hotel,Car,8,34106.37,4.6,Completed
+100192,2025-09-25,5012,Himachal Pradesh,Couple,Cultural,Homestay,Car,2,11103.27,3.8,Completed
+100193,2025-08-07,5013,Kerala,Solo,Business,Homestay,Bus,4,12356.08,5.0,Completed
+100194,2024-03-30,5014,Tamil Nadu,Solo,Cultural,Homestay,Flight,6,22571.83,3.5,Completed
+100195,2024-05-03,5015,Karnataka,Couple,Leisure,Hotel,Flight,10,59091.23,5.0,Completed
+100196,2024-03-05,5016,Goa,Group,Adventure,Homestay,Bus,2,12948.43,4.0,Cancelled
+100197,2025-11-17,5017,Rajasthan,Couple,Adventure,Hotel,Bus,8,27240.21,4.9,Completed
+100198,2025-08-07,5018,Kerala,Family,Cultural,Hotel,Bus,9,48915.19,3.7,Completed
+100199,2025-04-20,5019,Kerala,Family,Leisure,Resort,Bus,10,61601.6,4.1,Completed
+100200,2024-08-27,5020,Himachal Pradesh,Family,Leisure,Hotel,Train,8,48402.31,3.6,Completed
+100201,2025-08-31,5021,Kerala,Group,Adventure,Homestay,Train,8,68991.99,4.3,Completed
+100202,2025-11-10,5022,Rajasthan,Family,Cultural,Hotel,Train,6,42379.14,4.5,Completed
+100203,2025-02-11,5023,Karnataka,Couple,Leisure,Hotel,Flight,6,39856.81,3.9,Completed
+100204,2025-01-28,5024,Goa,Family,Leisure,Hostel,Flight,8,81452.49,3.9,Completed
+100205,2024-08-13,5025,Himachal Pradesh,Solo,Business,Resort,Bus,5,15635.22,3.0,Cancelled
+100206,2025-06-14,5026,Kerala,Couple,Adventure,Hostel,Car,4,25782.28,2.9,Completed
+100207,2024-10-20,5027,Kerala,Couple,Cultural,Hotel,Train,10,64435.16,4.0,Pending
+100208,2025-03-01,5028,Kerala,Couple,Adventure,Resort,Train,9,49232.66,4.9,Completed
+100209,2025-08-13,5029,Kerala,Solo,Leisure,Homestay,Train,5,20612.97,3.5,Completed
+100210,2024-05-09,5030,Kerala,Solo,Adventure,Hotel,Flight,2,12148.22,4.0,Completed
+100211,2024-01-17,5031,Goa,Family,Leisure,Hotel,Flight,9,108072.83,4.2,Cancelled
+100212,2025-02-04,5032,Karnataka,Couple,Leisure,Hotel,Bus,3,10813.19,3.5,Completed
+100213,2025-09-28,5033,Kerala,Couple,Leisure,Hotel,Flight,6,55630.31,4.2,Completed
+100214,2024-08-25,5034,Tamil Nadu,Family,Cultural,Homestay,Bus,5,20961.74,3.5,Completed
+100215,2025-05-22,5035,Goa,Solo,Adventure,Hotel,Flight,4,24960.64,4.7,Cancelled
+100216,2025-03-20,5036,Goa,Group,Business,Hotel,Bus,10,69729.26,3.7,Pending
+100217,2024-05-19,5037,Goa,Group,Adventure,Resort,Train,6,41774.97,3.3,Completed
+100218,2025-06-02,5038,Himachal Pradesh,Group,Adventure,Resort,Flight,2,24544.36,4.6,Pending
+100219,2025-12-10,5039,Kerala,Couple,Business,Homestay,Flight,3,25200.5,3.5,Cancelled
+100220,2025-07-28,5040,Tamil Nadu,Group,Leisure,Resort,Car,4,22831.61,3.7,Completed
+100221,2025-09-18,5041,Goa,Couple,Cultural,Hotel,Flight,5,40932.5,3.5,Cancelled
+100222,2024-01-26,5042,Karnataka,Family,Leisure,Homestay,Train,6,31039.71,3.7,Completed
+100223,2024-04-07,5043,Kerala,Solo,Leisure,Hotel,Train,2,6576.04,5.0,Completed
+100224,2024-08-11,5044,Tamil Nadu,Solo,Leisure,Hotel,Train,5,14866.03,4.1,Completed
+100225,2025-09-11,5045,Tamil Nadu,Solo,Adventure,Hotel,Train,6,17704.69,4.4,Completed
+100226,2024-08-25,5046,Tamil Nadu,Family,Leisure,Homestay,Bus,2,9667.06,3.9,Pending
+100227,2024-09-24,5047,Tamil Nadu,Solo,Leisure,Hostel,Flight,6,27896.34,4.4,Completed
+100228,2024-01-03,5048,Karnataka,Couple,Leisure,Hotel,Car,6,28910.2,3.7,Completed
+100229,2025-02-04,5049,Karnataka,Couple,Business,Hotel,Train,5,21535.41,4.4,Cancelled
+100230,2024-10-29,5050,Rajasthan,Couple,Business,Hotel,Flight,9,64112.37,4.5,Completed
+100231,2025-06-06,5051,Goa,Family,Leisure,Hotel,Flight,8,85068.62,3.3,Completed
+100232,2024-03-14,5052,Tamil Nadu,Solo,Business,Hotel,Flight,9,33663.21,5.0,Completed
+100233,2025-05-10,5053,Goa,Group,Business,Resort,Bus,8,57079.91,5.0,Completed
+100234,2025-01-20,5054,Rajasthan,Couple,Leisure,Resort,Flight,3,20527.51,3.9,Pending
+100235,2025-11-21,5055,Kerala,Couple,Leisure,Hotel,Flight,2,16836.78,2.9,Completed
+100236,2024-09-06,5056,Goa,Solo,Leisure,Homestay,Car,4,15727.88,3.8,Pending
+100237,2025-11-13,5057,Himachal Pradesh,Family,Cultural,Homestay,Train,4,28826.68,4.6,Completed
+100238,2024-02-19,5058,Goa,Group,Cultural,Hotel,Bus,10,67198.45,3.8,Completed
+100239,2025-08-09,5059,Karnataka,Solo,Leisure,Hotel,Flight,7,30005.17,4.4,Completed
+100240,2025-09-13,5060,Karnataka,Couple,Cultural,Hotel,Flight,5,33069.54,4.1,Completed
+100241,2024-09-30,5061,Goa,Couple,Adventure,Hotel,Car,6,39533.28,3.9,Completed
+100242,2024-12-29,5062,Himachal Pradesh,Solo,Adventure,Hotel,Car,10,34745.9,3.9,Completed
+100243,2025-11-18,5063,Tamil Nadu,Family,Leisure,Resort,Car,3,17488.0,4.1,Completed
+100244,2024-02-21,5064,Goa,Group,Cultural,Hotel,Flight,7,89819.59,3.7,Completed
+100245,2024-12-10,5065,Goa,Group,Adventure,Homestay,Train,3,20427.2,5.0,Pending
+100246,2025-03-03,5066,Karnataka,Couple,Leisure,Hotel,Train,10,48978.68,4.1,Completed
+100247,2024-12-15,5067,Goa,Solo,Adventure,Hotel,Bus,8,25931.46,3.1,Completed
+100248,2024-10-21,5068,Goa,Couple,Leisure,Resort,Flight,9,70356.59,4.1,Completed
+100249,2025-04-30,5069,Goa,Couple,Adventure,Hotel,Flight,5,44005.9,4.1,Completed
+100250,2024-07-30,5070,Karnataka,Couple,Business,Homestay,Flight,7,50292.93,4.6,Completed
+100251,2025-08-08,5071,Goa,Family,Leisure,Homestay,Train,6,46187.42,4.2,Completed
+100252,2025-11-08,5072,Himachal Pradesh,Group,Cultural,Hotel,Train,7,57399.78,4.3,Completed
+100253,2024-12-22,5073,Goa,Couple,Cultural,Hotel,Flight,5,43912.52,3.6,Cancelled
+100254,2024-07-20,5074,Karnataka,Family,Adventure,Hotel,Flight,4,38259.24,3.7,Completed
+100255,2025-10-19,5075,Himachal Pradesh,Group,Cultural,Hotel,Train,2,14021.42,4.3,Completed
+100256,2025-02-13,5076,Tamil Nadu,Group,Business,Hotel,Train,5,28286.83,4.5,Completed
+100257,2024-07-19,5077,Himachal Pradesh,Couple,Business,Hotel,Flight,3,20322.43,4.2,Completed
+100258,2024-10-17,5078,Kerala,Solo,Adventure,Resort,Train,10,41999.6,4.3,Completed
+100259,2025-06-22,5079,Himachal Pradesh,Group,Leisure,Resort,Flight,5,49937.02,4.8,Completed
+100260,2025-11-24,5080,Himachal Pradesh,Solo,Cultural,Homestay,Flight,4,18273.97,3.6,Completed
+100261,2025-06-21,5081,Tamil Nadu,Couple,Cultural,Resort,Train,4,14320.62,4.6,Pending
+100262,2025-11-21,5082,Rajasthan,Group,Adventure,Resort,Flight,2,20920.72,4.0,Completed
+100263,2024-07-12,5083,Kerala,Couple,Leisure,Hotel,Flight,6,53915.14,4.2,Cancelled
+100264,2024-11-26,5084,Himachal Pradesh,Solo,Leisure,Hotel,Flight,8,48321.93,4.6,Completed
+100265,2024-09-02,5085,Goa,Family,Cultural,Hotel,Flight,8,98596.09,4.0,Completed
+100266,2024-10-16,5086,Goa,Family,Adventure,Homestay,Bus,3,18157.68,2.9,Cancelled
+100267,2025-01-20,5087,Kerala,Couple,Business,Resort,Car,7,43798.95,5.0,Completed
+100268,2024-09-11,5088,Kerala,Couple,Leisure,Hostel,Flight,2,18825.46,5.0,Completed
+100269,2024-04-21,5089,Himachal Pradesh,Solo,Adventure,Resort,Bus,10,28981.74,3.3,Cancelled
+100270,2024-12-08,5090,Himachal Pradesh,Group,Adventure,Resort,Train,4,34019.29,4.5,Completed
+100271,2024-01-05,5091,Tamil Nadu,Couple,Adventure,Hotel,Train,3,12306.69,3.9,Completed
+100272,2025-03-30,5092,Tamil Nadu,Family,Adventure,Resort,Bus,8,31492.35,3.9,Completed
+100273,2025-12-14,5093,Himachal Pradesh,Solo,Adventure,Hotel,Bus,9,25166.34,3.7,Cancelled
+100274,2024-08-04,5094,Rajasthan,Group,Cultural,Resort,Train,5,31385.51,4.7,Completed
+100275,2024-04-27,5095,Karnataka,Couple,Leisure,Hotel,Flight,5,32719.63,4.0,Cancelled
+100276,2025-08-08,5096,Goa,Family,Business,Hotel,Flight,9,107800.61,4.4,Pending
+100277,2025-12-25,5097,Kerala,Group,Adventure,Hotel,Bus,6,43905.86,3.8,Pending
+100278,2025-09-09,5098,Karnataka,Group,Adventure,Resort,Train,2,11471.56,3.0,Completed
+100279,2025-05-28,5099,Himachal Pradesh,Solo,Leisure,Resort,Flight,4,21480.41,4.5,Completed
+100280,2025-07-17,5100,Karnataka,Solo,Business,Hostel,Car,7,23733.18,4.2,Completed
+100281,2025-01-10,5101,Goa,Group,Adventure,Homestay,Train,8,62341.53,4.2,Completed
+100282,2024-01-01,5102,Kerala,Solo,Adventure,Hotel,Car,5,19899.36,3.7,Completed
+100283,2025-02-06,5103,Rajasthan,Family,Business,Hotel,Bus,6,27950.65,4.7,Completed
+100284,2025-09-30,5104,Tamil Nadu,Family,Cultural,Resort,Bus,2,7285.35,5.0,Completed
+100285,2024-12-01,5105,Karnataka,Solo,Adventure,Homestay,Car,7,23731.59,4.0,Completed
+100286,2025-08-08,5106,Goa,Group,Leisure,Homestay,Flight,9,92259.4,3.9,Completed
+100287,2025-09-25,5107,Goa,Couple,Leisure,Homestay,Car,5,25621.45,3.6,Completed
+100288,2025-06-19,5108,Goa,Couple,Business,Hostel,Train,10,51818.74,4.1,Completed
+100289,2024-12-24,5109,Goa,Family,Leisure,Resort,Train,2,15187.48,3.0,Cancelled
+100290,2024-08-15,5110,Kerala,Couple,Leisure,Homestay,Car,8,55105.53,4.8,Pending
+100291,2024-09-13,5111,Karnataka,Family,Leisure,Resort,Flight,4,33026.33,4.5,Completed
+100292,2025-03-06,5112,Karnataka,Family,Adventure,Hotel,Train,6,38006.92,3.6,Completed
+100293,2025-06-05,5113,Himachal Pradesh,Family,Cultural,Hotel,Car,8,63285.42,4.4,Completed
+100294,2024-05-04,5114,Karnataka,Couple,Cultural,Homestay,Train,9,38127.91,3.0,Pending
+100295,2025-01-27,5115,Kerala,Group,Leisure,Hotel,Flight,2,28175.21,4.0,Completed
+100296,2025-03-19,5116,Tamil Nadu,Couple,Adventure,Hotel,Train,2,8196.8,4.1,Completed
+100297,2024-03-29,5117,Himachal Pradesh,Family,Leisure,Homestay,Car,6,44640.49,4.0,Completed
+100298,2025-07-26,5118,Kerala,Family,Leisure,Resort,Car,8,72705.23,4.7,Completed
+100299,2024-12-28,5119,Goa,Group,Leisure,Hotel,Car,9,77678.55,4.1,Completed
+100300,2025-06-18,5120,Himachal Pradesh,Couple,Cultural,Hotel,Flight,9,79626.48,3.5,Completed
+100301,2024-08-07,5121,Goa,Group,Leisure,Resort,Car,4,34767.34,4.0,Completed
+100302,2025-11-05,5122,Kerala,Couple,Leisure,Homestay,Bus,9,39205.5,4.0,Completed
+100303,2025-10-19,5123,Kerala,Family,Leisure,Hotel,Train,2,14981.98,5.0,Completed
+100304,2024-03-09,5124,Goa,Group,Leisure,Homestay,Train,7,49597.25,4.2,Cancelled
+100305,2025-07-17,5125,Goa,Solo,Cultural,Homestay,Flight,6,36164.36,4.9,Cancelled
+100306,2025-01-06,5126,Himachal Pradesh,Couple,Adventure,Hostel,Flight,8,54047.66,4.8,Completed
+100307,2025-01-04,5127,Himachal Pradesh,Group,Business,Hotel,Bus,6,30712.82,4.1,Cancelled
+100308,2025-03-16,5128,Tamil Nadu,Couple,Leisure,Hotel,Flight,5,32281.45,4.8,Completed
+100309,2024-08-17,5129,Himachal Pradesh,Family,Adventure,Hostel,Train,3,17276.33,3.5,Cancelled
+100310,2024-06-12,5130,Himachal Pradesh,Family,Adventure,Hotel,Bus,10,60691.94,4.9,Completed
+100311,2025-03-21,5131,Tamil Nadu,Solo,Leisure,Hotel,Bus,2,3915.61,4.0,Completed
+100312,2024-05-26,5132,Himachal Pradesh,Solo,Leisure,Resort,Flight,9,46499.48,4.5,Completed
+100313,2025-07-04,5133,Himachal Pradesh,Solo,Business,Hostel,Bus,4,9966.06,3.7,Completed
+100314,2025-01-16,5134,Kerala,Couple,Adventure,Homestay,Bus,8,37618.14,3.9,Completed
+100315,2025-01-17,5135,Goa,Family,Leisure,Hotel,Flight,5,55122.51,4.7,Completed
+100316,2025-03-05,5136,Himachal Pradesh,Couple,Leisure,Hotel,Car,2,11851.52,3.7,Completed
+100317,2024-12-04,5137,Rajasthan,Family,Adventure,Hotel,Train,7,38679.16,4.0,Completed
+100318,2025-09-02,5138,Rajasthan,Family,Business,Hotel,Bus,3,12882.27,3.3,Completed
+100319,2025-10-05,5139,Kerala,Couple,Adventure,Hotel,Flight,3,26546.03,4.5,Completed
+100320,2024-12-09,5140,Kerala,Solo,Business,Hotel,Flight,6,40708.56,5.0,Completed
+100321,2025-04-16,5141,Karnataka,Solo,Business,Hotel,Bus,7,16079.99,4.4,Completed
+100322,2024-08-12,5142,Karnataka,Couple,Adventure,Hostel,Flight,3,20757.61,3.5,Pending
+100323,2025-09-29,5143,Tamil Nadu,Family,Adventure,Hotel,Flight,3,21123.1,3.6,Cancelled
+100324,2025-07-22,5144,Goa,Solo,Adventure,Hotel,Train,10,36644.05,5.0,Completed
+100325,2024-09-07,5145,Tamil Nadu,Solo,Adventure,Homestay,Bus,8,16476.24,3.5,Completed
+100326,2025-10-30,5146,Goa,Group,Leisure,Homestay,Flight,4,46992.93,4.6,Completed
+100327,2025-01-28,5147,Karnataka,Group,Leisure,Homestay,Flight,9,90810.72,3.7,Pending
+100328,2025-05-18,5148,Goa,Solo,Business,Homestay,Car,3,12106.79,4.1,Completed
+100329,2025-11-08,5149,Kerala,Couple,Adventure,Hotel,Train,6,29985.34,4.7,Completed
+100330,2025-11-14,5150,Himachal Pradesh,Family,Cultural,Homestay,Car,6,40661.74,5.0,Completed
+100331,2025-06-08,5151,Goa,Solo,Leisure,Resort,Flight,7,42114.45,3.7,Completed
+100332,2024-04-12,5152,Tamil Nadu,Family,Adventure,Resort,Flight,4,28788.82,4.7,Pending
+100333,2025-04-12,5153,Kerala,Family,Leisure,Homestay,Train,7,45418.44,4.1,Completed
+100334,2024-07-07,5154,Karnataka,Family,Adventure,Hotel,Bus,4,16215.61,4.5,Pending
+100335,2024-11-14,5155,Rajasthan,Family,Adventure,Resort,Flight,4,36155.93,5.0,Completed
+100336,2024-01-04,5156,Kerala,Family,Leisure,Hotel,Flight,7,85542.32,5.0,Pending
+100337,2025-10-28,5157,Goa,Family,Leisure,Hostel,Bus,2,11917.99,3.4,Completed
+100338,2024-05-08,5158,Tamil Nadu,Group,Leisure,Homestay,Flight,6,59727.58,3.4,Completed
+100339,2025-09-24,5159,Tamil Nadu,Solo,Leisure,Hotel,Train,6,15068.95,4.1,Completed
+100340,2024-08-21,5160,Rajasthan,Couple,Leisure,Homestay,Train,5,27056.1,4.5,Completed
+100341,2025-01-29,5161,Karnataka,Group,Leisure,Resort,Bus,8,37983.31,5.0,Completed
+100342,2024-07-01,5162,Himachal Pradesh,Family,Leisure,Hotel,Train,7,52008.55,3.0,Completed
+100343,2024-10-12,5163,Rajasthan,Solo,Leisure,Hotel,Flight,10,56871.89,3.4,Completed
+100344,2024-02-09,5164,Himachal Pradesh,Family,Adventure,Hotel,Bus,10,59733.25,4.2,Completed
+100345,2025-05-12,5165,Himachal Pradesh,Family,Adventure,Resort,Flight,4,38104.02,3.9,Completed
+100346,2025-04-20,5166,Kerala,Couple,Adventure,Hotel,Flight,3,23244.1,3.9,Completed
+100347,2025-06-19,5167,Rajasthan,Group,Leisure,Hotel,Bus,10,62028.08,4.2,Completed
+100348,2024-02-22,5168,Kerala,Couple,Leisure,Hostel,Flight,8,72668.92,3.2,Cancelled
+100349,2024-02-19,5169,Karnataka,Solo,Leisure,Resort,Train,8,21559.03,3.5,Completed
+100350,2024-02-03,5170,Goa,Group,Leisure,Hostel,Car,2,18196.17,4.8,Completed
+100351,2024-02-17,5171,Goa,Solo,Leisure,Resort,Car,8,33402.39,4.4,Completed
+100352,2024-12-15,5172,Goa,Group,Leisure,Hotel,Train,8,57634.7,3.4,Pending
+100353,2025-08-26,5173,Goa,Solo,Cultural,Homestay,Flight,3,15081.7,4.0,Completed
+100354,2024-06-28,5174,Himachal Pradesh,Family,Leisure,Resort,Flight,6,69331.07,4.1,Completed
+100355,2024-08-14,5175,Karnataka,Family,Business,Hotel,Flight,10,79025.77,3.5,Completed
+100356,2025-04-03,5176,Himachal Pradesh,Family,Adventure,Hotel,Bus,5,22542.91,4.2,Completed
+100357,2024-02-24,5177,Kerala,Group,Cultural,Resort,Flight,4,54358.48,4.3,Cancelled
+100358,2024-08-03,5178,Rajasthan,Couple,Leisure,Resort,Flight,7,45856.21,4.4,Completed
+100359,2024-06-25,5179,Kerala,Couple,Cultural,Resort,Car,4,21890.15,4.7,Completed
+100360,2024-08-04,5000,Himachal Pradesh,Group,Adventure,Hostel,Train,5,36877.63,4.3,Completed
+100361,2024-07-20,5001,Goa,Couple,Adventure,Hotel,Flight,9,63828.91,3.9,Completed
+100362,2025-09-06,5002,Kerala,Solo,Cultural,Hostel,Flight,5,30486.48,4.0,Pending
+100363,2025-05-19,5003,Himachal Pradesh,Group,Adventure,Resort,Flight,8,96292.22,4.4,Completed
+100364,2024-01-26,5004,Goa,Solo,Adventure,Resort,Train,4,13994.57,4.4,Completed
+100365,2025-03-29,5005,Tamil Nadu,Couple,Adventure,Hostel,Bus,8,25440.43,4.2,Completed
+100366,2024-04-09,5006,Kerala,Couple,Business,Homestay,Flight,10,74776.4,4.9,Completed
+100367,2024-08-22,5007,Karnataka,Group,Adventure,Resort,Flight,2,21502.43,4.7,Completed
+100368,2024-03-11,5008,Kerala,Solo,Leisure,Homestay,Car,2,9290.68,4.2,Completed
+100369,2024-03-08,5009,Rajasthan,Solo,Business,Hotel,Flight,9,43256.44,3.6,Completed
+100370,2024-09-01,5010,Karnataka,Couple,Adventure,Hotel,Car,6,25440.41,4.1,Completed
+100371,2024-11-25,5011,Himachal Pradesh,Family,Cultural,Hotel,Flight,8,70514.72,4.6,Completed
+100372,2024-05-26,5012,Kerala,Family,Adventure,Resort,Bus,6,33995.72,4.7,Completed
+100373,2025-09-23,5013,Kerala,Couple,Adventure,Resort,Flight,7,68221.45,3.8,Completed
+100374,2025-09-26,5014,Goa,Couple,Leisure,Hotel,Car,9,59058.18,4.6,Completed
+100375,2024-04-11,5015,Karnataka,Family,Leisure,Resort,Train,9,51028.1,4.0,Pending
+100376,2025-10-04,5016,Himachal Pradesh,Group,Leisure,Homestay,Car,3,21564.11,3.9,Completed
+100377,2024-12-15,5017,Goa,Group,Adventure,Hostel,Car,7,60114.36,4.1,Cancelled
+100378,2025-10-01,5018,Goa,Family,Leisure,Resort,Flight,6,59268.86,3.2,Completed
+100379,2024-02-16,5019,Goa,Group,Cultural,Hotel,Bus,9,50140.22,4.4,Completed
+100380,2025-05-10,5020,Karnataka,Group,Cultural,Resort,Train,2,11970.6,4.8,Pending
+100381,2024-04-20,5021,Kerala,Couple,Leisure,Resort,Flight,7,52616.85,3.4,Completed
+100382,2024-03-15,5022,Kerala,Family,Cultural,Hotel,Car,9,74813.92,4.1,Completed
+100383,2024-01-22,5023,Karnataka,Family,Business,Hostel,Flight,2,17640.12,3.7,Cancelled
+100384,2024-09-11,5024,Kerala,Family,Cultural,Resort,Flight,2,26240.62,3.7,Completed
+100385,2025-01-02,5025,Tamil Nadu,Couple,Adventure,Hotel,Car,6,29822.31,4.6,Pending
+100386,2024-07-26,5026,Himachal Pradesh,Group,Adventure,Resort,Bus,5,31785.67,4.4,Completed
+100387,2025-03-27,5027,Tamil Nadu,Solo,Cultural,Resort,Flight,6,26943.2,4.1,Cancelled
+100388,2024-09-05,5028,Karnataka,Couple,Adventure,Hotel,Bus,5,17852.32,5.0,Completed
+100389,2024-11-09,5029,Himachal Pradesh,Couple,Business,Homestay,Car,9,55720.81,4.2,Pending
+100390,2025-10-31,5030,Goa,Couple,Cultural,Resort,Car,7,38981.1,4.1,Completed
+100391,2025-12-25,5031,Goa,Solo,Cultural,Resort,Flight,5,27447.34,4.5,Completed
+100392,2025-04-03,5032,Himachal Pradesh,Solo,Adventure,Hotel,Flight,8,42717.75,4.2,Cancelled
+100393,2024-11-22,5033,Kerala,Couple,Adventure,Hostel,Flight,4,38680.02,4.6,Cancelled
+100394,2024-07-24,5034,Rajasthan,Couple,Cultural,Resort,Car,5,26237.23,4.7,Completed
+100395,2025-03-17,5035,Karnataka,Solo,Business,Homestay,Car,6,21621.29,4.2,Completed
+100396,2024-05-11,5036,Goa,Couple,Leisure,Hotel,Train,8,38934.12,4.7,Cancelled
+100397,2024-04-23,5037,Himachal Pradesh,Family,Leisure,Homestay,Car,2,14042.78,5.0,Cancelled
+100398,2025-06-29,5038,Kerala,Group,Leisure,Homestay,Flight,9,133472.82,4.3,Completed
+100399,2024-06-23,5039,Kerala,Solo,Adventure,Hotel,Car,5,18785.63,3.2,Completed
+100400,2025-03-23,5040,Kerala,Family,Leisure,Resort,Car,3,25932.46,4.8,Completed
+100401,2024-09-14,5041,Kerala,Group,Adventure,Hotel,Train,3,26237.06,4.3,Cancelled
+100402,2025-07-20,5042,Himachal Pradesh,Family,Leisure,Hotel,Car,9,63687.23,3.7,Completed
+100403,2024-08-10,5043,Himachal Pradesh,Solo,Cultural,Resort,Flight,2,11538.67,3.6,Completed
+100404,2024-11-16,5044,Himachal Pradesh,Couple,Leisure,Hotel,Car,2,10043.64,4.4,Completed
+100405,2025-01-29,5045,Kerala,Solo,Leisure,Hotel,Car,3,11534.47,4.3,Completed
+100406,2024-12-14,5046,Himachal Pradesh,Solo,Leisure,Hotel,Flight,10,53898.74,5.0,Completed
+100407,2025-09-09,5047,Kerala,Couple,Cultural,Homestay,Flight,7,56969.54,3.9,Completed
+100408,2024-02-15,5048,Goa,Couple,Adventure,Hotel,Flight,8,73933.14,4.9,Completed
+100409,2024-09-13,5049,Goa,Family,Leisure,Resort,Bus,5,26051.91,3.8,Completed
+100410,2024-12-19,5050,Rajasthan,Group,Leisure,Resort,Bus,2,10077.42,4.0,Completed
+100411,2024-06-25,5051,Rajasthan,Family,Cultural,Homestay,Car,8,61005.55,4.8,Completed
+100412,2024-10-05,5052,Himachal Pradesh,Group,Adventure,Resort,Train,8,57980.95,4.8,Cancelled
+100413,2025-07-23,5053,Karnataka,Solo,Cultural,Homestay,Car,9,30102.16,4.9,Pending
+100414,2025-10-22,5054,Karnataka,Couple,Cultural,Homestay,Train,3,11900.28,4.3,Completed
+100415,2025-08-11,5055,Goa,Family,Leisure,Homestay,Flight,6,56422.36,4.0,Completed
+100416,2025-07-07,5056,Himachal Pradesh,Couple,Leisure,Hotel,Flight,6,41827.85,3.0,Pending
+100417,2024-12-14,5057,Goa,Solo,Leisure,Homestay,Train,4,14974.22,4.2,Completed
+100418,2025-04-24,5058,Karnataka,Family,Cultural,Homestay,Train,10,50443.34,4.1,Completed
+100419,2024-03-17,5059,Goa,Group,Business,Hotel,Train,10,88427.87,4.1,Pending
+100420,2025-11-08,5060,Himachal Pradesh,Solo,Leisure,Hotel,Flight,5,27560.18,3.9,Completed
+100421,2024-12-25,5061,Rajasthan,Couple,Leisure,Hotel,Flight,9,56723.57,4.4,Completed
+100422,2024-11-27,5062,Tamil Nadu,Group,Cultural,Resort,Flight,7,55784.11,4.4,Completed
+100423,2024-08-14,5063,Rajasthan,Couple,Adventure,Homestay,Bus,5,19218.57,3.8,Completed
+100424,2025-02-04,5064,Tamil Nadu,Couple,Leisure,Hostel,Bus,8,26528.68,3.9,Completed
+100425,2025-02-17,5065,Kerala,Couple,Adventure,Hotel,Bus,6,28478.73,4.0,Completed
+100426,2025-01-10,5066,Tamil Nadu,Group,Adventure,Homestay,Bus,7,30996.85,4.5,Completed
+100427,2025-01-05,5067,Kerala,Couple,Adventure,Hotel,Car,4,26281.36,3.9,Completed
+100428,2024-01-12,5068,Goa,Family,Leisure,Hostel,Flight,6,59758.16,3.1,Completed
+100429,2025-05-04,5069,Kerala,Solo,Leisure,Hotel,Car,6,21472.86,5.0,Completed
+100430,2024-04-14,5070,Rajasthan,Family,Business,Homestay,Train,2,10806.92,3.2,Pending
+100431,2024-03-04,5071,Karnataka,Couple,Leisure,Resort,Train,9,44390.81,2.7,Completed
+100432,2025-06-26,5072,Rajasthan,Solo,Leisure,Hotel,Car,4,14341.38,4.7,Completed
+100433,2024-03-11,5073,Karnataka,Couple,Cultural,Resort,Train,9,38032.79,4.0,Cancelled
+100434,2024-05-10,5074,Rajasthan,Couple,Adventure,Hotel,Flight,4,28089.42,4.0,Cancelled
+100435,2024-02-17,5075,Tamil Nadu,Couple,Cultural,Hotel,Car,3,13540.99,4.1,Completed
+100436,2025-05-29,5076,Rajasthan,Couple,Leisure,Resort,Train,2,8283.17,4.4,Completed
+100437,2025-08-22,5077,Tamil Nadu,Solo,Cultural,Hotel,Flight,3,11871.39,4.3,Cancelled
+100438,2024-09-01,5078,Karnataka,Family,Leisure,Resort,Car,10,56016.39,4.3,Pending
+100439,2024-09-04,5079,Goa,Family,Leisure,Hotel,Flight,4,38559.85,3.5,Completed
+100440,2024-02-20,5080,Karnataka,Solo,Adventure,Hotel,Flight,3,11986.01,4.1,Completed
+100441,2025-05-17,5081,Tamil Nadu,Solo,Leisure,Resort,Flight,6,22046.74,4.4,Completed
+100442,2024-04-08,5082,Karnataka,Group,Business,Hotel,Flight,6,55479.24,4.0,Completed
+100443,2025-05-03,5083,Rajasthan,Couple,Leisure,Homestay,Train,2,8761.78,3.8,Cancelled
+100444,2025-02-18,5084,Rajasthan,Solo,Leisure,Resort,Flight,3,16955.97,3.9,Completed
+100445,2024-11-06,5085,Tamil Nadu,Couple,Adventure,Hotel,Bus,7,20339.55,3.5,Completed
+100446,2024-11-06,5086,Himachal Pradesh,Group,Adventure,Resort,Train,10,74241.47,4.9,Pending
+100447,2025-07-18,5087,Tamil Nadu,Solo,Leisure,Hotel,Car,7,22964.4,3.0,Completed
+100448,2025-01-12,5088,Goa,Group,Adventure,Hotel,Flight,8,92495.74,3.0,Completed
+100449,2024-11-18,5089,Tamil Nadu,Couple,Leisure,Homestay,Car,10,49985.15,4.0,Completed
+100450,2024-11-06,5090,Karnataka,Family,Leisure,Resort,Flight,9,75275.99,5.0,Cancelled
+100451,2025-08-19,5091,Goa,Couple,Adventure,Hotel,Flight,10,79094.83,3.9,Completed
+100452,2024-11-14,5092,Goa,Couple,Leisure,Hotel,Bus,7,29754.05,3.5,Completed
+100453,2024-08-05,5093,Tamil Nadu,Solo,Leisure,Hotel,Bus,6,11827.91,4.2,Cancelled
+100454,2024-05-26,5094,Tamil Nadu,Family,Adventure,Hostel,Flight,4,33322.53,4.7,Completed
+100455,2024-08-17,5095,Goa,Family,Cultural,Hostel,Train,10,76113.73,3.9,Completed
+100456,2025-03-21,5096,Himachal Pradesh,Couple,Adventure,Homestay,Flight,6,52792.08,4.4,Completed
+100457,2025-03-11,5097,Rajasthan,Group,Leisure,Resort,Train,9,71025.97,5.0,Cancelled
+100458,2025-07-25,5098,Rajasthan,Couple,Adventure,Hotel,Train,7,35337.51,4.0,Cancelled
+100459,2025-04-08,5099,Rajasthan,Solo,Leisure,Hotel,Flight,5,26462.42,4.4,Completed
+100460,2024-02-26,5100,Kerala,Couple,Leisure,Hotel,Train,5,31564.93,4.7,Completed
+100461,2025-05-11,5101,Kerala,Couple,Leisure,Homestay,Train,6,31207.41,4.0,Completed
+100462,2025-12-24,5102,Tamil Nadu,Couple,Business,Homestay,Car,5,23907.75,3.8,Completed
+100463,2024-09-09,5103,Karnataka,Family,Cultural,Homestay,Flight,7,62363.92,3.9,Completed
+100464,2025-12-09,5104,Goa,Solo,Leisure,Resort,Flight,9,50583.76,4.5,Completed
+100465,2025-10-21,5105,Rajasthan,Solo,Cultural,Hotel,Flight,4,21865.78,2.8,Completed
+100466,2024-03-09,5106,Himachal Pradesh,Family,Leisure,Hotel,Train,7,48961.89,3.8,Completed
+100467,2024-02-18,5107,Goa,Family,Leisure,Resort,Flight,6,68016.77,4.5,Pending
+100468,2024-08-12,5108,Kerala,Solo,Leisure,Homestay,Bus,2,6224.03,4.1,Completed
+100469,2025-06-28,5109,Goa,Family,Cultural,Hotel,Flight,10,119278.61,4.0,Completed
+100470,2025-04-02,5110,Himachal Pradesh,Group,Adventure,Resort,Bus,7,45847.02,3.9,Completed
+100471,2025-12-14,5111,Himachal Pradesh,Couple,Leisure,Hotel,Train,3,13067.93,4.4,Cancelled
+100472,2025-02-13,5112,Karnataka,Couple,Business,Homestay,Flight,6,42956.24,4.0,Cancelled
+100473,2024-08-21,5113,Himachal Pradesh,Family,Cultural,Hostel,Train,5,36588.54,3.8,Cancelled
+100474,2025-10-03,5114,Rajasthan,Group,Leisure,Homestay,Flight,2,22548.24,4.1,Completed
+100475,2024-01-30,5115,Goa,Group,Leisure,Hostel,Bus,10,54053.29,3.5,Completed
+100476,2025-07-11,5116,Himachal Pradesh,Couple,Leisure,Resort,Train,7,34703.75,4.4,Completed
+100477,2024-05-16,5117,Kerala,Solo,Leisure,Resort,Flight,10,61554.29,4.3,Pending
+100478,2025-10-04,5118,Kerala,Group,Leisure,Resort,Car,9,91161.19,3.9,Cancelled
+100479,2025-03-06,5119,Tamil Nadu,Family,Leisure,Hotel,Train,9,50962.07,3.7,Completed
+100480,2024-06-17,5120,Goa,Group,Leisure,Hotel,Car,10,73116.96,4.2,Completed
+100481,2025-08-04,5121,Himachal Pradesh,Solo,Leisure,Resort,Flight,6,35885.24,4.2,Completed
+100482,2024-11-28,5122,Rajasthan,Group,Leisure,Hotel,Bus,9,56575.75,3.1,Completed
+100483,2025-09-19,5123,Kerala,Couple,Cultural,Hotel,Train,10,64329.9,3.8,Completed
+100484,2024-10-09,5124,Tamil Nadu,Solo,Leisure,Hotel,Flight,6,22758.56,3.5,Completed
+100485,2024-06-02,5125,Himachal Pradesh,Solo,Cultural,Hotel,Train,3,9358.73,4.9,Completed
+100486,2024-03-18,5126,Karnataka,Couple,Leisure,Homestay,Train,9,42449.74,4.3,Completed
+100487,2024-06-30,5127,Kerala,Couple,Leisure,Homestay,Flight,7,66487.59,5.0,Completed
+100488,2025-01-07,5128,Kerala,Couple,Adventure,Hostel,Train,2,10114.07,5.0,Cancelled
+100489,2025-04-17,5129,Himachal Pradesh,Solo,Leisure,Homestay,Train,2,5784.56,4.1,Completed
+100490,2024-07-29,5130,Goa,Family,Leisure,Resort,Train,4,24710.48,3.6,Completed
+100491,2024-07-28,5131,Kerala,Group,Cultural,Hotel,Train,2,18292.04,4.7,Completed
+100492,2024-08-14,5132,Kerala,Solo,Leisure,Homestay,Car,4,16618.24,4.1,Completed
+100493,2024-12-27,5133,Tamil Nadu,Solo,Cultural,Hostel,Bus,6,13165.59,3.5,Completed
+100494,2025-05-12,5134,Tamil Nadu,Solo,Cultural,Hotel,Train,3,9308.98,4.3,Completed
+100495,2025-09-24,5135,Goa,Family,Business,Hotel,Car,3,23883.7,4.5,Completed
+100496,2025-11-16,5136,Tamil Nadu,Couple,Leisure,Homestay,Car,6,27476.48,3.8,Completed
+100497,2025-06-04,5137,Karnataka,Couple,Cultural,Hotel,Flight,4,27327.8,4.4,Completed
+100498,2024-06-03,5138,Goa,Couple,Leisure,Hotel,Train,10,56761.31,4.1,Cancelled
+100499,2025-05-07,5139,Tamil Nadu,Couple,Leisure,Hotel,Train,6,25845.41,4.8,Completed

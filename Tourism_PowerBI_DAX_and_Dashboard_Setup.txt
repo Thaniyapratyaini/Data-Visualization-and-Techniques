@@ -1,0 +1,68 @@
+POWER BI – TOURISM DATA ANALYTICS
+====================================
+
+Dataset:
+Tourism_Data_Clean.csv
+
+Import the CSV into Power BI Desktop and rename the table:
+Tourism_Data_Clean
+
+DAX MEASURES
+------------
+
+Total Bookings =
+DISTINCTCOUNT('Tourism_Data_Clean'[booking_id])
+
+Total Revenue =
+SUM('Tourism_Data_Clean'[amount])
+
+Average Trip Cost =
+AVERAGE('Tourism_Data_Clean'[amount])
+
+Total Tourists =
+DISTINCTCOUNT('Tourism_Data_Clean'[customer_id])
+
+Average Rating =
+AVERAGE('Tourism_Data_Clean'[rating])
+
+Completed Bookings =
+CALCULATE(
+    [Total Bookings],
+    'Tourism_Data_Clean'[booking_status] = "Completed"
+)
+
+Cancelled Bookings =
+CALCULATE(
+    [Total Bookings],
+    'Tourism_Data_Clean'[booking_status] = "Cancelled"
+)
+
+Pending Bookings =
+CALCULATE(
+    [Total Bookings],
+    'Tourism_Data_Clean'[booking_status] = "Pending"
+)
+
+Completion Rate =
+DIVIDE(
+    [Completed Bookings],
+    [Total Bookings],
+    0
+)
+
+Recommended Dashboard Visuals
+-----------------------------
+1. Total Bookings – Card
+2. Total Revenue – Card
+3. Average Trip Cost – Card
+4. Total Tourists – Card
+5. Average Rating – Card
+6. Revenue by Destination – Bar chart
+7. Bookings by Traveler Type – Bar chart
+8. Bookings by Transport Mode – Donut chart
+9. Monthly Tourism Revenue Trend – Line chart
+10. Booking Status Analysis – Column chart
+11. Destination, Traveler Type, Trip Type and Booking Status slicers
+
+Save the completed Power BI Desktop dashboard as:
+Tourism Miniproject PowerBI.pbix
